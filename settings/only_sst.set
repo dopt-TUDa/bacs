@@ -1,0 +1,14 @@
+bacs/graphpresolving = TRUE
+bacs/sstpresolving = TRUE
+bacs/sstaddedges = TRUE
+bacs/sstorbitrule = 2
+bacs/degtwocontract = FALSE
+bacs/cyclepresol = FALSE
+bacs/printprobstats = TRUE
+bacs/graphinprobing = FALSE
+bacs/mergepresol = FALSE
+bacs/onlypresol = FALSE
+bacs/sstrepeat = TRUE
+bacs/neighborhoodpresol = FALSE
+bacs/simplicialpresol = FALSE
+
