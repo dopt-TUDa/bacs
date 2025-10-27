@@ -63,3 +63,7 @@ Apache License, Version 2.0
 ## Authors
 
 The Discrete Optimization Group, TU Darmstadt.
+ - Jonas Alker
+ - Annika Jäger
+ - Erik Jansen
+ - Marc E. Pfetsch
